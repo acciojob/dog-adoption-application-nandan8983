@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+form{
+	margin-left:30%;
+}
+
+label{
+	display:inline-block;
+}
+
+input{
+	display:inline-block;
+	
+}
